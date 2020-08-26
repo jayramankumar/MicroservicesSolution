@@ -28,3 +28,8 @@ D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\
 D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
 D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
 D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\microserv arc\MicroservicesSolution\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
