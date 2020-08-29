@@ -27,6 +27,7 @@ src/Catalog/Catalog.API/obj/
 obj/
 src/*/obj/
 TestResults/
+.vs/
 ###################
 # Web publish log #
 ###################
