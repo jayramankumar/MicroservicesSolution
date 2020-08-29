@@ -23,7 +23,9 @@ _UpgradeReport_Files/
 # Directories #
 ###############
 bin/
+src/Catalog/Catalog.API/obj/
 obj/
+src/*/obj/
 TestResults/
 ###################
 # Web publish log #
