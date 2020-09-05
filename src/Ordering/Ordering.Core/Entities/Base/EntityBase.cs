@@ -55,7 +55,10 @@ namespace Ordering.Core.Entities.Base
 
         public static bool operator ==(EntityBase<TId> left, EntityBase<TId> right)
         {
-            return !(left == right);
+            if (Equals(left, null))
+                return Equals(right, null);
+            else
+                return left.Equals(right);
         }
 
         public static bool operator !=(EntityBase<TId> left, EntityBase<TId> right)
