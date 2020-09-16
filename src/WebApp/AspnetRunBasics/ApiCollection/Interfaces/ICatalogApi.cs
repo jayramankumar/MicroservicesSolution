@@ -1,4 +1,4 @@
-﻿using AspnetRunBasics.ApiCollection.Models;
+﻿using AspnetRunBasics.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,5 +1,5 @@
 ﻿
-namespace AspnetRunBasics.ApiCollection.Models
+namespace AspnetRunBasics.Models
 {
     public class CatalogModel
     {

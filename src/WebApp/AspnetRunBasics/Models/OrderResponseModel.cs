@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AspnetRunBasics.ApiCollection.Models
+namespace AspnetRunBasics.Models
 {
-    public class BasketCheckoutModel
+    public class OrderResponeModel
     {
         public string UserName { get; set; }
         public decimal TotalPrice { get; set; }
