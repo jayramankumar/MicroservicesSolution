@@ -1,11 +1,11 @@
 ﻿
 namespace AspnetRunBasics.Settings
 {
-    public class IApiSettings
+    public interface IApiSettings
     {
-        public string BaseAddress { get; set; }
-        public string CatalogPath { get; set; }
-        public string BasketPath { get; set; }
-        public string OrderPath { get; set; }
+        string BaseAddress { get; set; }
+        string CatalogPath { get; set; }
+        string BasketPath { get; set; }
+        string OrderPath { get; set; }
     }
 }

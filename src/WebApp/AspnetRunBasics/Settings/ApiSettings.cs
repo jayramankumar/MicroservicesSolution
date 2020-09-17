@@ -13,4 +13,3 @@ namespace AspnetRunBasics.Settings
         public string OrderPath { get; set; }
     }
 }
-}
