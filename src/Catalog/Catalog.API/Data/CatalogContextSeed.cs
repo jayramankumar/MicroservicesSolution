@@ -27,6 +27,7 @@ namespace Catalog.API.Data
                     Name = "Samsung 12",
                     Summary = "the best",
                     Description = "description",
+                    ImageFile = "",
                     Price = 423,
                     Category = "Phone"
                 },

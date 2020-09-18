@@ -34,12 +34,12 @@ namespace AspnetRunBasics
 
             if (!string.IsNullOrWhiteSpace(categoryName))
             {
-                ProductList = ProductList.Where(p=>p.Category == categoryName);
+                ProductList = productList.Where(p=>p.Category == categoryName);
                 SelectedCategory = categoryName;
             }
             else
             {
-                ProductList = ProductList;
+                ProductList = productList;
             }
 
             return Page();
